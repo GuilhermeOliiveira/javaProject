@@ -1,2 +1,2 @@
 # javaProject
-Projetos realizados com Java
+Projetos realizados com a linguagem Java e aprimorando conhecimento.
